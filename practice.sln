@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Login", "practice\Login.csproj", "{5C8849C8-71B3-4311-A00D-52345246F921}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoreChecker", "Switch\ScoreChecker.csproj", "{F58201CB-534E-4613-B989-4460BAFB1AED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScoreChecker", "Switch\ScoreChecker.csproj", "{F58201CB-534E-4613-B989-4460BAFB1AED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ternary Operator", "Ternary Operator\Ternary Operator.csproj", "{302EC605-96DD-49CD-91A3-70AACD9A1AA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ternary Operator", "Ternary Operator\Ternary Operator.csproj", "{302EC605-96DD-49CD-91A3-70AACD9A1AA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops,While,DoWhileLoops,ForEach", "Loops\Loops,While,DoWhileLoops,ForEach.csproj", "{24121E4A-9DD7-4B53-8196-2FB23971C6D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{302EC605-96DD-49CD-91A3-70AACD9A1AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{302EC605-96DD-49CD-91A3-70AACD9A1AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{302EC605-96DD-49CD-91A3-70AACD9A1AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24121E4A-9DD7-4B53-8196-2FB23971C6D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24121E4A-9DD7-4B53-8196-2FB23971C6D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24121E4A-9DD7-4B53-8196-2FB23971C6D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24121E4A-9DD7-4B53-8196-2FB23971C6D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
