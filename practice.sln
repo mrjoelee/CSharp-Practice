@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScoreChecker", "Switch\Scor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ternary Operator", "Ternary Operator\Ternary Operator.csproj", "{302EC605-96DD-49CD-91A3-70AACD9A1AA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops,While,DoWhileLoops,ForEach", "Loops\Loops,While,DoWhileLoops,ForEach.csproj", "{24121E4A-9DD7-4B53-8196-2FB23971C6D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops,While,DoWhileLoops,ForEach", "Loops\Loops,While,DoWhileLoops,ForEach.csproj", "{24121E4A-9DD7-4B53-8196-2FB23971C6D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{3A281069-D60D-4BA1-B9C5-A38FC652114C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "Properties\Properties.csproj", "{03210D74-9D2D-454B-88DC-09229A0CEF0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{24121E4A-9DD7-4B53-8196-2FB23971C6D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24121E4A-9DD7-4B53-8196-2FB23971C6D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24121E4A-9DD7-4B53-8196-2FB23971C6D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A281069-D60D-4BA1-B9C5-A38FC652114C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A281069-D60D-4BA1-B9C5-A38FC652114C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A281069-D60D-4BA1-B9C5-A38FC652114C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A281069-D60D-4BA1-B9C5-A38FC652114C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03210D74-9D2D-454B-88DC-09229A0CEF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03210D74-9D2D-454B-88DC-09229A0CEF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03210D74-9D2D-454B-88DC-09229A0CEF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03210D74-9D2D-454B-88DC-09229A0CEF0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
