@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Inheritance_OOP
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
