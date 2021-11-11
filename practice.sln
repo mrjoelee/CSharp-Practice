@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31729.503
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Login", "practice\Login.csproj", "{5C8849C8-71B3-4311-A00D-52345246F921}"
 EndProject
@@ -17,9 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Properties", "Properties\Pr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{2FB28F6F-7594-4699-B5A0-919C1AB51125}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D arrays", "2D arrays\2D arrays.csproj", "{F49E7B40-D3C8-44ED-AE62-F6FFD8B8F581}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2D arrays", "2D arrays\2D arrays.csproj", "{F49E7B40-D3C8-44ED-AE62-F6FFD8B8F581}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingArray-TicTacToe", "UsingArray-TicTacToe\UsingArray-TicTacToe.csproj", "{D146B85F-B99B-44EF-B221-3F200F2D2A27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingArray-TicTacToe", "UsingArray-TicTacToe\UsingArray-TicTacToe.csproj", "{D146B85F-B99B-44EF-B221-3F200F2D2A27}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jagged Array", "Jagged Array\Jagged Array.csproj", "{6FF59338-C4FF-4019-A8D9-5AA6D1E7CE69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hastable", "Hastable\Hastable.csproj", "{B2BE062E-1914-4A1B-AB9A-5F6897E1C468}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance OOP", "Inheritance OOP\Inheritance OOP.csproj", "{5398C87F-453C-4C63-8523-0B6AB3E9EB54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +69,18 @@ Global
 		{D146B85F-B99B-44EF-B221-3F200F2D2A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D146B85F-B99B-44EF-B221-3F200F2D2A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D146B85F-B99B-44EF-B221-3F200F2D2A27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF59338-C4FF-4019-A8D9-5AA6D1E7CE69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF59338-C4FF-4019-A8D9-5AA6D1E7CE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF59338-C4FF-4019-A8D9-5AA6D1E7CE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF59338-C4FF-4019-A8D9-5AA6D1E7CE69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2BE062E-1914-4A1B-AB9A-5F6897E1C468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2BE062E-1914-4A1B-AB9A-5F6897E1C468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2BE062E-1914-4A1B-AB9A-5F6897E1C468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2BE062E-1914-4A1B-AB9A-5F6897E1C468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5398C87F-453C-4C63-8523-0B6AB3E9EB54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5398C87F-453C-4C63-8523-0B6AB3E9EB54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5398C87F-453C-4C63-8523-0B6AB3E9EB54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5398C87F-453C-4C63-8523-0B6AB3E9EB54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
